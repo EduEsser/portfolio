@@ -16,7 +16,6 @@
 }
 
 body{
-    /* height: 100vh; */
     box-sizing: border-box;
     background-color: var(--cor-primaria);
     color: var(--cor-secundaria);
@@ -81,7 +80,6 @@ body{
 }
 
 .apresentacao__links__link {
-    /* background-color: #0e4772; */
     justify-content: center;
     gap: 16px;
     display: flex;
